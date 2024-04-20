@@ -1,8 +1,8 @@
 body{
     margin: 0;
+    margin-bottom: 100px;
     font-family: Georgia, sans-serif;
     background: url('/static/images/box-white.jpg') no-repeat center center fixed;
-    min-height: 70vh;
     display: flex;
     align-items: center;
     justify-content: center;
